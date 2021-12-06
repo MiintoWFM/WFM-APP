@@ -1,15 +1,12 @@
 # Workforce Management APP with Shiny
 The application can be used for receiving the availability, creating schedules and checking the coverage of your workforce. It is particulary suited for the call centers. 
 
-
-Schedule --> Showcases some of the metrics related to projects and tasks which are dynamically updated based on the changes that are made to the data.
+Schedule --> Shows individual monthly schedule. Can be filtered by month number and agent ID. 
 
 Coverage --> View the coverage per channel and combined. The plots feature the scheduled FTE's against intially forecasted requirement
 
-Submit Preferences --> The advocates can use this page to submit the availabilities. The submissions are visible to the admin user in requests folder. 
+Reports --> Shows the forecast, schedule, SLA and other important metrics for the project. 
 
-Help --> Under development
-
-Download Schedule --> Download your teams's schedule for the current month
+Team Schedule --> Download your teams's schedule for a day of your choice. 
 
 The app is available at: https://tesfahunboshe.shinyapps.io/Workforce-Management-App-with-Shiny/ 
