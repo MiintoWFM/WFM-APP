@@ -9,4 +9,4 @@ Reports --> Shows the forecast, schedule, SLA and other important metrics for th
 
 Team Schedule --> Download your teams's schedule for a day of your choice. 
 
-The app is available at: https://tesfahunboshe.shinyapps.io/Workforce-Management-App-with-Shiny/ 
+The app is available at: https://miintowfm.shinyapps.io/WFM-APP-main/
